@@ -9,7 +9,7 @@
 
 - :grin: My next project will be **a web app to postpone my distracting/procrastinating internet searches.**
 
-- 🤝 I’m looking for **a full time remote web dev job opportunity.**
+- 🤝 I’m looking for **a remote full stack web dev job opportunity.**
 
 - 👨‍💻 All of my projects are available at [https://mollyviau.com/](https://mollyviau.com/)
 
