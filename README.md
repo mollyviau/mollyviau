@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mollyviau&label=Profile%20views&color=0e75b6&style=flat" alt="mollyviau" /> </p>
 
-- 🔭 I’m currently working on [my portfolio website](https://mollyviau.com/)
+- 🔭 I’m currently working on [a crypto trading platform](https://github.com/mollyviau/crypto-trading-platform)
 
 - 🌱 I’m currently learning **time management, web hosting, accessibility and security.**
 
