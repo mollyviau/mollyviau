@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a crypto trading platform](https://github.com/mollyviau/crypto-trading-platform)
 
-- 🌱 I’m currently learning **data Structures, algorithms, and memory management.**
+- 🌱 I’m currently learning **data structures, algorithms, and memory management.**
 
 - :grin: My next project will be **a playlist generating website**
 
