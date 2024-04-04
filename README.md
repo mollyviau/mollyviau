@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **time management, web hosting, accessibility and security.**
 
-- :grin: My next project will be **a web app to postpone my distracting/procrastinating internet searches.**
+- :grin: My next project will be **a playlist generating website**
 
-- 🤝 I’m looking for **a remote full stack web dev job opportunity.**
+- 🤝 I’m looking for **a remote software developer job opportunity.**
 
 - 👨‍💻 All of my projects are available at [https://mollyviau.com/](https://mollyviau.com/)
 
