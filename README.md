@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">Technical Business Analyst | IT Business Analytics Student</h3>
+<h3 align="center">Web Developer | Technical Business Analyst | IT Business Analytics Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mollyviau&label=Profile%20views&color=0e75b6&style=flat" alt="mollyviau" /> </p>
 
-- 🔭 I’m currently developing a [**Process Portfolio**](https://mollyviau.com/portfolio/) to bridge software engineering with business strategy.
+- 🔭 I’m currently developing a [**Subscription Tracker**](https://github.com/mollyviau/subscription-tracker) as a capstone project for my Software Development Lifecycle course.
 
 - 🌱 I’m currently mastering **IT Business Analytics, SQL, and Data Visualization.**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 Explore my work at [https://mollyviau.com/](https://mollyviau.com/)
 
-- 📫 Reach out via **contact@mollyviau.com**
+- 📫 Reach out via **mollyviau@proton.me**
 
 - 📄 View my professional trajectory [https://www.linkedin.com/in/mollyviau/](https://www.linkedin.com/in/mollyviau/)
 
-- ⚡ Fun fact **I’ve gone from high-volume food service to high-volume data analysis—ask me about my server-to-analyst transition!**
+- ⚡ Fun fact **I've been making websites since I was 11 years old! My first project was a Harry Potter fanpage, naturally.**
 
 <h3 align="left">Connect with me:</h3>
 <table border="0" cellpadding="0" cellspacing="0">
@@ -33,8 +33,8 @@
       </a>
     </td>
     <td>
-      <a href="mailto:contact@mollyviau.com" target="blank">
-        <img src="https://mollyviau.com/wp-content/uploads/2026/05/gmailIcon.png" alt="Email" height="40" width="40" />
+      <a href="mailto:mollyviau@proton.me" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proton-mail.png" alt="Email" height="40" width="40" />
       </a>
     </td>
   </tr>
