@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">Web Developer | Technical Business Analyst | IT Business Analytics Student</h3>
+<h3 align="center">Full Stack Developer | Technical Business Analyst | IT Business Analytics Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mollyviau&label=Profile%20views&color=0e75b6&style=flat" alt="mollyviau" /> </p>
 
